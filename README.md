@@ -9,7 +9,7 @@
 **Autores:** Joana de Medeiros Oliveira Hulse Molinete e Pedro Henrique Medeiros Bramante.
 
 **Contribuições:** A introdução e embasamento teórico, tratamento dos dados, análise por componentes principais (PCA) e regressão logística foram realizadas pela autora Joana Molinete.
-As partes "A PCA acompanha a linhagem ou o eletrodo?" e "Módulo, fase e referência de PBS", teste ANOVA, aplicação do modelo SISSO e considerações finais foram realizados pelo autor Pedro Henrique Bramante.
+As partes "A PCA acompanha a linhagem ou o eletrodo?" e "Módulo, fase e referência de PBS", teste ANOVA e aplicação do modelo SISSO foram realizados pelo autor Pedro Henrique Bramante.
 
 **Orientação:** Ana Clara Bastos e Emanuel Carrilho.
 
